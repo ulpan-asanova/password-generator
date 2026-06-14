@@ -1,2 +1,8 @@
-# password-generator
-A password generator, which would make you a password of any length you need! 
+# Password Generator
+A simple password generator written in Python.
+
+## Features
+- Customizable password length
+- Character set selection (digits, lowercase, uppercase, punctuation)
+- Exclude easily confused characters (il1Lo0O)
+- Generate multiple passwords at once
